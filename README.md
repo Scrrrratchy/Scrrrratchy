@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Scrrrratchy
 - 👀 I’m interested in microcontroller (Arduino) projects
-- 🌱 I’m currently learning C,C++,C#
+- 🌱 I’m currently learning C,C++,C# and PowerShell skripting
 - 💻 Windows, Linux
